@@ -14,7 +14,7 @@ Wish List = [
 ```
 
 ## Stats
-<p align="center"><a href="https://github.com/Fallavall"><img src="https://github-readme-stats.vercel.app/api?username=Fallavall&show_icons=true&theme=radient"></a></p>
+<p align="center"><a href="https://github.com/Fallavall"><img src="https://github-readme-stats.vercel.app/api?username=Fallavall&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/Fallavall"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fallavall&theme=highcontrast&layout=compact"></a></p>
 
 ## Recent Musics
