@@ -1,7 +1,7 @@
 # Kon'nichiwa Minna <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ! I'm AkaruiAikara
 
 <p align="center">
-  <img src="https://telegra.ph/file/4a99ab7ca1b375e4991dc.mp4">
+  <img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif">
 </p>
 
 ```
