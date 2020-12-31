@@ -9,7 +9,7 @@ Wish List = [
     "+ Buy Laptop/ PC (till now i dont have that thing *sad)",
     "+ Get into Informatics Study Program on National College",
     "+ Hope i do a project",
-    "+ I dont know anymore ¯\_()_/¯"
+    "+ I dont know anymore Â¯\_()_/Â¯"
 ]
 ```
 
@@ -19,6 +19,6 @@ Wish List = [
 
 ## Recent Musics
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=falla_vall&redirect=true" > <img src="https://spotify-github-profile.vercel.app/api/view?uid=falla_vall&cover_image=true&theme=default" alt="Spotify-Now" /></a><br>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=falla_vall&redirect=true" > <img src="https://spotify-github-profile.vercel.app/api/view?uid=falla_vall&cover_image=true&theme=novatorem" alt="Spotify-Now" /></a><br>
   <a href="https://www.last.fm/user/falla_vall" > <img src="https://spotify-recently-played-readme.vercel.app/api?user=falla_vall&width=400" alt="Spotify-Recent" /></a>
 </p>
