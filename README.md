@@ -23,7 +23,7 @@ Wish List = [
   <a href="https://www.last.fm/user/falla_vall" > <img src="https://spotify-recently-played-readme.vercel.app/api?user=falla_vall&width=400" alt="Spotify-Recent" /></a>
 </p>
 
-Thanks for visiting my profile ;)
 <p align="center">
+  Thanks for visiting my profile ;)
   <img src="https://i.imgur.com/kOXnswR.gif">
 </p>
