@@ -27,10 +27,10 @@ Wish List = [
 
 ## Contact Me
 <p align="center">
-  <a href"https://facebook.com/fallah.andyprakasa"><img src="https://img.icons8.com/bubbles/100/000000/facebook-f.png"/></a>
+  <a href="https://facebook.com/fallah.andyprakasa"><img src="https://img.icons8.com/bubbles/100/000000/facebook-f.png"/></a>
   <a href="https://instagram.com/aoi.aikara"><img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png"/></a>
-  <a href"https://twitter.com/aikaaraaa"><img src="https://img.icons8.com/bubbles/100/000000/twitter-circled.png"/></a>
-  <a href"https://t.me/falla_vall"><img src="https://img.icons8.com/bubbles/100/000000/telegram-app.png"/></a>
+  <a href="https://twitter.com/aikaaraaa"><img src="https://img.icons8.com/bubbles/100/000000/twitter-circled.png"/></a>
+  <a href="https://t.me/falla_vall"><img src="https://img.icons8.com/bubbles/100/000000/telegram-app.png"/></a>
 </p>
 
 
