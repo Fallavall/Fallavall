@@ -1,4 +1,4 @@
-# Kon'nichiwa Minna! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm aikara
+# Hello Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to My Profile
 
 <p align="center">
   <img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif">
@@ -7,14 +7,15 @@
 ```
 Wish List = [
     "+ Buy Laptop/ PC (till now i dont have that thing *sad)",
-    "+ Get into Informatics Study Program on National College",
+    "+ Wanna go to Bootcamp",
     "+ Hope i do a project",
-    "+ I dont know anymore ¯\_()_/¯"
+    "+ Go Working (Life is so simple)"
 ]
 ```
 
 ## Stats
 <p align="center">
+  <a href="https://github.com/AkaruiAikara"><img src="http://github-readme-streak-stats.herokuapp.com?user=AkaruiAikara&theme=tokyonight_duo"</a><br>
   <a href="https://github.com/AkaruiAikara"><img src="https://github-readme-stats.vercel.app/api?username=AkaruiAikara&show_icons=true&theme=radical"></a><br>
   <a href="https://github.com/AkaruiAikara"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaruiAikara&theme=highcontrast&layout=compact"></a>
 </p>
