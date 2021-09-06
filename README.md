@@ -6,10 +6,15 @@
 
 ```
 Wish List = [
-    "+ Buy Laptop/ PC (till now i dont have that thing *sad)",
+
     "+ Wanna go to Bootcamp",
     "+ Hope i do a project",
     "+ Go Working (Life is so simple)"
+]
+```
+```
+Checklist = [
+    "✓ Buy Laptop/ PC"
 ]
 ```
 
