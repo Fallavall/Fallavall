@@ -22,7 +22,8 @@ Checklist = [
 <p align="center">
   <a href="https://github.com/AkaruiAikara"><img src="http://github-readme-streak-stats.herokuapp.com?user=AkaruiAikara&theme=tokyonight_duo"</a><br>
   <a href="https://github.com/AkaruiAikara"><img src="https://github-readme-stats.vercel.app/api?username=AkaruiAikara&show_icons=true&theme=radical"></a><br>
-  <a href="https://github.com/AkaruiAikara"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaruiAikara&theme=highcontrast&layout=compact"></a>
+  <a href="https://github.com/AkaruiAikara"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=AkaruiAikara&theme=radical"></a></br>
+      <a href="https://github.com/AkaruiAikara"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaruiAikara&theme=highcontrast&layout=compact"></a>
 </p>
 
 ## Recent Musics
