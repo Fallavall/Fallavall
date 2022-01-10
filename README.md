@@ -1,7 +1,7 @@
 # Hello Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to My Profile
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif">
+  <img src="https://media1.giphy.com/media/U8GB0e1Cv0BErDTdli/giphy.gif">
 </p>
 
 ```
@@ -22,8 +22,8 @@ Checklist = [
 <p align="center">
   <a href="https://github.com/AkaruiAikara"><img src="http://github-readme-streak-stats.herokuapp.com?user=AkaruiAikara&theme=tokyonight_duo"</a><br><br>
   <a href="https://github.com/AkaruiAikara"><img src="https://github-readme-stats.vercel.app/api?username=AkaruiAikara&show_icons=true&theme=radical"></a><br><br>
-  <a href="https://github.com/AkaruiAikara"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=AkaruiAikara&theme=radical"></a><br><br>
-  <a href="https://github.com/AkaruiAikara"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaruiAikara&theme=highcontrast&layout=compact"></a>
+  <a href="https://github.com/AkaruiAikara"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=AkaruiAikara&layout=compact&theme=radical"></a><br><br>
+  <a href="https://github.com/AkaruiAikara"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaruiAikara&theme=radical"></a>
 </p>
 
 ## Recent Musics
