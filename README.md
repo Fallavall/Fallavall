@@ -6,15 +6,7 @@
 
 ```
 Wish List = [
-
-    "+ Wanna go to Bootcamp",
-    "+ Hope i do a project",
-    "+ Go Working (Life is so simple)"
-]
-```
-```
-Checklist = [
-    "✓ Buy Laptop/ PC"
+    "+ A lot of wishes from me"
 ]
 ```
 
