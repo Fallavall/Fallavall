@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akaruiaikara&label=Profile%20views&color=980eb4&style=flat" alt="akaruiaikara" /> </p>
 
-- 🔭 I’m currently working on [Kontena](https://github.com/AkaruiAikara/kontena)
+- 🔭 I’m currently looking for a jobs
 
 - 🌱 I’m currently learning **Typescript, Golang, Dart, Django**
 
