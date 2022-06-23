@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akaruiaikara&label=Profile%20views&color=980eb4&style=flat" alt="akaruiaikara" /> </p>
 
-- 🔭 I’m currently looking for jobs
+- 🔭 I’m currently working on [Matakala](https://matakala.io)
 
 - 🌱 I’m currently learning **Typescript, Golang, Dart, Django**
 
@@ -38,3 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akaruiaikara&show_icons=true&theme=dark&locale=en" alt="akaruiaikara" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akaruiaikara&theme=dark" alt="akaruiaikara" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=AkaruiAikara&layout=compact&theme=radical"></p>
