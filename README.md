@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fallah Andy Prakasa</h1>
 <h3 align="center">A Passionated Person who always exploring stuff about Coding</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akaruiaikara&label=Profile%20views&color=980eb4&style=flat" alt="akaruiaikara" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=falla-vall&label=Profile%20views&color=980eb4&style=flat" alt="falla-vall" /> </p>
 
 - 🌱 I’m currently learning **Typescript, Golang, Dart, Django**
 
@@ -31,10 +31,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/fallavall"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fallavall" /></a><a href="https://ko-fi.com/falla_vall"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="falla_vall" /></a></p><br><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akaruiaikara&show_icons=true&theme=dark&locale=en&layout=compact" alt="akaruiaikara" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=falla-vall&show_icons=true&theme=dark&locale=en&layout=compact" alt="falla-vall" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akaruiaikara&show_icons=true&theme=dark&locale=en" alt="akaruiaikara" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=falla-vall&show_icons=true&theme=dark&locale=en" alt="falla-vall" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akaruiaikara&theme=dark" alt="akaruiaikara" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=falla-vall&theme=dark" alt="falla-vall" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=AkaruiAikara&layout=compact&theme=radical"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=falla-vall&layout=compact&theme=radical"></p>
