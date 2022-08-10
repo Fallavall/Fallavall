@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akaruiaikara&label=Profile%20views&color=980eb4&style=flat" alt="akaruiaikara" /> </p>
 
-- 🔭 I’m currently working on [Matakala](https://matakala.io)
-
 - 🌱 I’m currently learning **Typescript, Golang, Dart, Django**
 
 - 👨‍💻 All of my projects are available at [https://flla.my.id](https://flla.my.id)
