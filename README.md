@@ -37,4 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=falla-vall&theme=dark" alt="falla-vall" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=falla-vall&layout=compact&theme=radical"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=AkaruiAikara&layout=compact&theme=radical"></p>
